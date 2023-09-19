@@ -148,6 +148,7 @@ export class Slide {
     return this;
   }
 }
+
 export default class SlideNav extends Slide {
   constructor(slide, wrapper) {
     super(slide, wrapper);
