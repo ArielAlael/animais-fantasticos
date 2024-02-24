@@ -1,3 +1,3 @@
 # animais-fantasticos
 
-Projeto final do curso de JavaScript Completo Origamid
+Projeto final do curso de JavaScript Completo da Origamid
